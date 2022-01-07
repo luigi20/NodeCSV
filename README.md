@@ -1,13 +1,6 @@
 # NodeCSV
 
-## Repositorio da semana NLW Together
-
-Esse repositório é referente ao projeto executado em uma semana do curso proporcionado pela [RocketSeat](https://rocketseat.com.br/) em 2020. É uma API a qual 
-é feita para criar uma rede incentivo entre os usuários que são impactados por alguma ação de outra pessoa e querem fazer um elogio.
-
-## O Destaque
-
-Sinto muito orgulho de ter conseguido acompanhar e terminar na semana proposta pela RocketSeat, outro fator que foi grande valia foi entender o pipeline das empresas e ferramentas bacanas. 
+Este é um pequeno projeto, feito para ler arquivos csv e salvar no banco de dados postgreSQL por meio do ORM Prisma.
 
 
 ## Tecnologias Usadas:
